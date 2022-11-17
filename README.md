@@ -1,2 +1,2 @@
-# Documenation
-This is the official updated documentation of the Bookish programming language.
+# Alternative Documenation
+This is the alternative (Early Feature) updated documentation of the Bookish programming language.
